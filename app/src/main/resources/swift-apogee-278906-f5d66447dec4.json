@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "swift-apogee-278906",
+  "private_key_id": "f5d66447dec456e095fc2bbb11babdbdca720162",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCd8fc0Eq5kCKka\ncB19N/3srtVALX8Yli1vdWB1TjR1eXCJotdfTamK6vTj6qJ9O0fLXXCqYsZ3I9Gb\ndu2u6F6Uih/S4OD9yBECS2iR4MZuGM6+VHRfHwxOA9A+V0M060bnU0p4hYVsj7Jq\ncJkC0H7iLgf1odJKWMAE/IGXNGuL30nDEdo5Sa9R2az+QRhxyhzvOEUHlO5v9Qd9\nQLHFO01NChsv79gleZ2SZ78QUL4+JK5VjqCITwlHXxFX9UunGRyjVfMVUW67SIsb\nnl3mAyDLf3cWhlHmNdgD1TDq1GzlyV6tKpPvuAHjCd7KM0syAjQz++nPfHECRLRs\nnGPKTQ2VAgMBAAECggEAAsY1qfZxfouAlIdBhVh+1okeWbMBbUVENAoezjUJfx+m\noG8uNhYa55VBv0l40roGEAlB5tuITEGFTscTlw9QRfp4wFrmNHBpDG+tpcKs1Tok\nDPY/Ek5KK1u5ss3l2vzImf99weBGJ7rG96DVrnin37XPAG/VE8+BLKmcZmHrpjiA\n4vMRc9uStpTQ1gBvRCLWaN08Zol5c4UQSEiJcXv3zAZjKDT0pzPiTwYm7ZyWWv1V\nTWBMsTKQWYa3qQ2iaDQ3yLlrcn3+rUOz9+7McAu9QkWQAp/p+S8VQHo0zmNfSMdT\nn8RtW4AtWkAqLcWT1WMCVJBupzgm6s6axJfNJBtRQQKBgQDTKcm2ZbUDTKxJmgu6\n/KnD1azaiEk6Mb6l+dRlx+Y7tV/PCwckryjjJeMXQ1HsU8M07/Uf+AuqqYxIT6Rn\n4FXQXbACNZjactHa6Xo/gHBB6WlADPlHOUW84sHTLPUa2wkqp5x3i4nVPWcFsLYc\nGyTj5BKoHGzP/KRsPZVcyJB0NQKBgQC/e2aZQ6tPPVWMQCGiWh+cLQrBc4bctYAl\nl+cdx00pc0YUsqWSGVQKkzuSJnFeIohOoaRnfrAjOo1eWM5GgKRjdsLNn+iEWtuP\ng9HagGxW9etKt7AwC6H7GhRnquOg+gwE3+Okax4F7+PU5f1JcLRGbgwQDYP9KScn\nf8eYL8Kf4QKBgQCkFFh0rlsVEULefiCXTzTqwuHpfPTJj1XAynvMCqRPyQOFceA/\nFQwEVLA8p0bFB+ErBTnHeYo3Nj+XAKuTO7HykpntXZBETeva2ojvRvHzhVcPOgWI\n3mvd9aT+XnSmRYS97DecfITBeVDQDxuygzULD3Gfx1aV1o48vS2ORxpX8QKBgDHf\nxHN7Kq2y/gtP0PLmooEdQkXs/12RcNVZ4XriJHj9a22Mso+BRWCTxNpmZPTt7a79\nb0L9vocOgy/l1aSLcUXu8wJ3+iovOC0DWq+c75se5rBJc/yvqvsqadIusqeFOYgz\ngKmctO868o7LcNOmJW6Kz12HB6/y/h3NrIE5P2pBAoGBAJa/Ex6MVQhqVs0267o3\nnAJPKj8ejnA9EzpU0hdDKdliDFDv4gJHYaOdgL2+717fOOTcVOsOvGoBb0djytmO\nZMcai4nWPEr/HOUuPKlppmPmoHTT6szkM23No8Yu8en5U65nX0I6A132NB38hjXJ\naCwhYKoFiWUP3xAaAFqe0nLU\n-----END PRIVATE KEY-----\n",
+  "client_email": "broadcast-app@swift-apogee-278906.iam.gserviceaccount.com",
+  "client_id": "108294021652199489917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/broadcast-app%40swift-apogee-278906.iam.gserviceaccount.com"
+}

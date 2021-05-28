@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectBroadcast</string>
+    <string name="email_tab_name_1">Email 1</string>
+    <string name="email_tab_name_2">Email 2</string>
+    <string name="weekly_emails">Weekly Emails</string>
+    <string name="broadcast_log">Broadcast Log</string>
+    <string name="sermons">Sermons</string>
+    <string name="settings">Settings</string>
+</resources>
